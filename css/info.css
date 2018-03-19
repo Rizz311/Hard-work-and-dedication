@@ -1,0 +1,49 @@
+body{
+  background-color: grey;
+}
+header{
+  height: 150px;
+  width: 100%;
+  float: left;
+  clear: both;
+  background-color: black;
+}
+.home, .map, .events{
+  width: 33%;
+  border: 1px solid white;
+  background-color: grey;
+  float: left;
+  margin-top: 50px;
+}
+button{
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  padding: 15px 20px 15px 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.place{
+  width: 100%;
+  float: left;
+}
+img{
+  float: left;
+  width: 35%;
+}
+h1{
+  color: white;
+  margin-left: 300px;
+  float: left;
+  width: 40%
+}
+.list{
+  padding: 15px 20px 15px 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+h4, p{
+  float: left;
+  color: white;
+
+}
